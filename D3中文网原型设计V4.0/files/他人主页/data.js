@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"他人主页.html",
-  "generationDate":new Date(1448802765670.84),
+  "generationDate":new Date(1449315209159.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "LabelState"],
@@ -858,7 +858,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/我的主页/u33.png"}}]},
+                    "normal~":"images/我的主页/u37.png"}}]},
 {
               "id":"0fe65b6797a74bac94d1ccd2b50de7ce",
               "label":"文章",

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"问题详情.html",
-  "generationDate":new Date(1448802763548.72),
+  "generationDate":new Date(1449315207505.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "LabelState"],

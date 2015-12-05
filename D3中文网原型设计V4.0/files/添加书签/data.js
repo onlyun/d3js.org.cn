@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"添加书签.html",
-  "generationDate":new Date(1448802762580.67),
+  "generationDate":new Date(1449315206820.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "LabelState"],

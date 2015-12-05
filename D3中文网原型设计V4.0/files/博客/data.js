@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"博客.html",
-  "generationDate":new Date(1448802763818.74),
+  "generationDate":new Date(1449315207719.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "LabelState"],

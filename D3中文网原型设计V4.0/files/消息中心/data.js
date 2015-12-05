@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"消息中心.html",
-  "generationDate":new Date(1448802766007.86),
+  "generationDate":new Date(1449315209345.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable",
 "LabelState"],
