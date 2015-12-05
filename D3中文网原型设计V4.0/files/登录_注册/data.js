@@ -1,0 +1,72 @@
+﻿$axure.loadCurrentPage({
+  "url":"登录_注册.html",
+  "generationDate":new Date(1448802766039.87),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"LabelState"],
+  "page":{
+    "packageId":"124a5cb9f70143dc8749ffdecb21f183",
+    "type":"Axure:Page",
+    "name":"登录/注册",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"center",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"fc8d746825a14feb8d15cdcb44bf79e1",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":35,
+              "y":61},
+            "size":{
+              "width":895,
+              "height":529}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b33cd893b0674c63a7096b4cfedba71a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":35,
+                  "y":61},
+                "size":{
+                  "width":895,
+                  "height":529}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/登录_注册/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "fc8d746825a14feb8d15cdcb44bf79e1":{
+      "scriptId":"u0"},
+    "b33cd893b0674c63a7096b4cfedba71a":{
+      "scriptId":"u1"}}});
