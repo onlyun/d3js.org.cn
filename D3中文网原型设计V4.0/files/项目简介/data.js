@@ -1,0 +1,66 @@
+﻿$axure.loadCurrentPage({
+  "url":"项目简介.html",
+  "generationDate":new Date(1449315205468.53),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"LabelState"],
+  "page":{
+    "packageId":"60b177bf2b254a8ea6e502d9e452cd35",
+    "type":"Axure:Page",
+    "name":"项目简介",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"center",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"fa0fe132b9f14c42bc052cfa189229ef",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":668,
+              "height":1946}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2b1d376eaa9d4a2f86ae9d43583c2a34",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":668,
+                  "height":1946}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/项目简介/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "fa0fe132b9f14c42bc052cfa189229ef":{
+      "scriptId":"u0"},
+    "2b1d376eaa9d4a2f86ae9d43583c2a34":{
+      "scriptId":"u1"}}});
